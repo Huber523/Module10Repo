@@ -1,2 +1,3 @@
-# Module10Repo
-This is my Module 10 Assignment for my Programming with Python College Class of Spring 2026
+# COP2034C Git Assignment
+
+This repository contains files for Module 10, including a numpy Python demo and course slides.
